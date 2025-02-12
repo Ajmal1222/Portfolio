@@ -9,9 +9,9 @@ const Project2 = ({project, setproject})=>{
   <div className="work-container">
     <div className="left-work-container">
     <span class="Project-number">02</span>
-    <span class="Project-name">Fullstack Project</span>
-    <span class="Project-discription">I am a web developer passionate about crafting modern, <br/> responsive, and user-friendly websites using the latest  <br/>technologies and best practices.</span>
-    <span class="Language-used">Html 5 ,  Css 3,  Javascript,   React, NodeJs</span>
+    <span class="Project-name">TodoApp</span>
+    <span class="Project-discription">A minimal task manager with real-time updates and Appwrite backend integration to keep you organized!</span>
+    <span class="Language-used">Html 5 ,  Css 3,  Javascript,   React, Appwrite</span>
     <div className="work-icon-cotainer">
     <span > <BsArrowUpRight className="arrow-icon"/></span>
     <span> <TiHeadphones className="arrow-icon" /></span>
